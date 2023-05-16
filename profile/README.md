@@ -1,9 +1,6 @@
 # Kaggle-study-230311-230520
 This is a study group that replicates Kaggle for learning DA and ML.
 
-# Kaggle-study-230311-230520
-This is a study group that replicates Kaggle for learning DA and ML.
-
 ## 🖥️ 스터디 소개
 캐글코리아에서 주관하는 스터디 모임으로 캐글 필사를 주제로 진행됩니다.
 커리큘럼에 따라 주차별 필사할 노트를 선정하고 모든 스터디원들은 필사를 진행해오며

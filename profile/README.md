@@ -19,7 +19,7 @@ This is a study group that replicates Kaggle for learning DA and ML.
 
 
 ## 커리큘럼
-![image](https://github.com/kaggle-study-230311/.github/assets/69462995/2cb21159-10c6-405b-b72c-4837d808de0c)
+![image](https://github.com/kaggle-study-230311/.github/assets/69462995/c878b257-ed87-465c-ad69-a1d5602c3da6)
 ## 📌 진행방식
 * [코드필사]스터디가 있는 날까지 해당 주차에 배정된 캐글 주제를 필사
     * 주제마다 발표자를 선정하여 노트 분석 및 발표 진행
